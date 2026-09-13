@@ -1,1 +1,1 @@
-# Semantic Query Cache Optimiser
+# Semantic Query Cache Optimizer
